@@ -1,5 +1,5 @@
 - ⚛️ **Physicist with a computational mindset**  
-  I specialize in theoretical and computational physics, with experience in topics like modified gravity, dark matter, and particle interactions, using tools such as **FEniCS**, **Geant4**, and custom simulation frameworks.
+  I specialize in theoretical and computational physics, with experience in topics like modified gravity, dark matter, and physics beyond the Standard Model, using tools such as **FEniCS**, **Geant4**, and custom simulation frameworks.
 
 - 🧠 **Data & AI enthusiast**  
   I enjoy exploring how machine learning and deep learning can enhance scientific research. I’ve developed models for image classification, regression, and data-driven discovery using **PyTorch**, **TensorFlow**, and **scikit-learn**.
