@@ -1,3 +1,7 @@
+## Hi, I'm María! 👋
+
+### 👩‍💻 About Me
+
 - ⚛️ **Physicist with a computational mindset**  
   I specialize in theoretical and computational physics, with experience in topics like modified gravity, dark matter, and physics beyond the Standard Model, using tools such as **FEniCS**, **Geant4**, and custom simulation frameworks.
 
